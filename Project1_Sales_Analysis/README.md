@@ -1,10 +1,14 @@
 # 📊 Sales Performance Dashboard  
  
 ### Project Link:
-Project1_Sales_Analysis/Sales_data_analysis.pbix
+[Access Dashboard (.pbix)](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project1_Sales_Analysis/Sales_data_analysis.pbix)
 
 ### Detailed Documentation Link: 
 https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project1_Sales_Analysis/Sales_Data_Analysis_Documentation.pdf
+
+### Dataset:
+[Download Dataset](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project1_Sales_Analysis/Store%2BData.xlsx)
+
 
 
 ## 📝 Problem Statement  
