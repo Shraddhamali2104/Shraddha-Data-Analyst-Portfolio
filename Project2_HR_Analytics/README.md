@@ -36,7 +36,7 @@ The dashboard equips decision makers with a single-view attendance tool to enhan
 - **Step 3:**  Created a parameter template and implemented the GetData function, allowing the same transformation to be dynamically applied across all monthly sheets. 
 - **Step 4:**  Invoked the transformation function on all sheets and combined them into a single, unified attendance table for analysis. 
 - **Step 5:**  Developed DAX measures for key HR metrics, including WFH Count, Total Working Days, Present Days, Presence %, WFH %, SL Count, and SL %. 
-- **Step 6:**  Designed an interactive Power BI dashboard with
+- **Step 6:**  Designed an interactive Power BI dashboard with:
       -  card visuals for key KPIs
       -  tables/matrices for employee-level insights
       -  area charts for trend analysis
@@ -47,12 +47,13 @@ The dashboard equips decision makers with a single-view attendance tool to enhan
 
 
 
-  ## 📉 Dashboards  
+  ## 📉 Dashboard  
 
-### 🔝🔻 Top and Bottom 5 Analysis  
-Comparison of top and bottom 5 products by sales, quantity, and profit to identify best and worst performers.
+### Employee Attendance & Work Preference Insights 
 
-![Sales Dashboard]([https://github.com/user-attachments/assets/681cb6d5-0d8c-4f20-94e0-074436de0917](https://github.com/user-attachments/assets/e2e1416d-8465-49e0-bc25-16b5a35aae5b" ))  
+
+
+![Dashboard]("https://github.com/user-attachments/assets/e2e1416d-8465-49e0-bc25-16b5a35aae5b")  
 
   
 
