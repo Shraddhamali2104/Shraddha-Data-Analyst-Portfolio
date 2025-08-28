@@ -47,14 +47,36 @@ The dashboard equips decision makers with a single-view attendance tool to enhan
 
 
 
-  ## 📉 Dashboard  
+## 📉 Dashboard  
 
 ### Employee Attendance & Work Preference Insights 
 
 This interactive Power BI dashboard visualizes key attendance metrics—including presence percentage, work-from-home trends, and sick leave rates—across employees and time periods. It empowers HR and management to instantly analyze attendance behaviors, uncover weekly patterns, and make informed, data-driven workforce decisions.
 
-![Dashboard]("https://github.com/user-attachments/assets/13ccc5df-549e-4844-b54b-57f46503d41d") 
+![Dashboard](https://github.com/user-attachments/assets/13ccc5df-549e-4844-b54b-57f46503d41d)
 
-  
 
+## 🔎 Insights  
+From the dashboard, the following key insights were observed:  
+
+🏠 **Work From Home Patterns**  
+- Employees often prefer remote work on Fridays and Mondays, creating noticeable spikes.  
+- This trend helps guide hybrid office planning and optimize space utilization.  
+
+📅 **Monthly Presence Trends**  
+- April recorded the highest employee presence percentage, reflecting stronger attendance.  
+- June had the lowest presence rate, requiring deeper investigation.  
+
+🤒 **Sick Leave Analysis**  
+- Sick leave spikes are visible in the dashboard’s area charts, enabling HR to quickly spot health issues.  
+- June showed the highest sick leave percentage, while April had the lowest.  
+
+📊 **Attendance Stability**  
+- Most employees maintain attendance above 90%.  
+- Outlier weeks and days are clearly highlighted for quick review.  
+
+📈 **Mid-Week Presence**  
+- Attendance peaks mid-week (Tuesdays and Wednesdays).  
+- This supports scheduling of team activities and in-person meetings.  
 ---
+
