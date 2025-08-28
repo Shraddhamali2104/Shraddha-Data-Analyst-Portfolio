@@ -51,9 +51,9 @@ The dashboard equips decision makers with a single-view attendance tool to enhan
 
 ### Employee Attendance & Work Preference Insights 
 
+This interactive Power BI dashboard visualizes key attendance metrics—including presence percentage, work-from-home trends, and sick leave rates—across employees and time periods. It empowers HR and management to instantly analyze attendance behaviors, uncover weekly patterns, and make informed, data-driven workforce decisions.
 
-
-![Dashboard]("https://github.com/user-attachments/assets/e2e1416d-8465-49e0-bc25-16b5a35aae5b")  
+![Dashboard]("https://github.com/user-attachments/assets/13ccc5df-549e-4844-b54b-57f46503d41d") 
 
   
 
