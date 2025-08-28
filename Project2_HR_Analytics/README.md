@@ -26,29 +26,7 @@ The objective is to provide actionable insights to HR and management regarding:
 
 The dashboard equips decision makers with a single-view attendance tool to enhance HR policy-making, space management, and proactive employee wellness interventions.
 
-## 📉 Dashboards  
 
-### 🔝🔻 Top and Bottom 5 Analysis  
-Comparison of top and bottom 5 products by sales, quantity, and profit to identify best and worst performers.
-
-![Sales Dashboard](https://github.com/user-attachments/assets/681cb6d5-0d8c-4f20-94e0-074436de0917)  
-
-### 🎯 Sales & Promotions Impact Analysis  
-An interactive Power BI dashboard analyzing sales across Indian cities with insights on order volume, profit vs. net sales correlation, promotional discount impact, and sales trends over time.  
-
-![Sales Dashboard2](https://github.com/user-attachments/assets/f4453950-7a3a-469b-b0fe-605d1dff5064)  
-
-### ⚖️ Comparison of Sales/Profit/Quantity  
-This dashboard visual enables users to compare total sales, profit, and quantity sold between two custom date ranges, allowing for dynamic, side-by-side performance analysis.  
-
-![Sales Dashboard3](https://github.com/user-attachments/assets/868cc627-8210-4223-a67c-b69aafc70932)  
-
-### 🗂️ Sales Transactions with Dynamic Filters  
-This matrix visual displays detailed transaction data and can be dynamically filtered by date, customer, product, and promotion for targeted analysis.
-
-![Sales Dashboard4](https://github.com/user-attachments/assets/d2171a9f-b96e-4140-ba35-ce87c48415c4)  
-
----
 
 
 ## ⚙️ Steps Followed  
@@ -66,3 +44,16 @@ This matrix visual displays detailed transaction data and can be dynamically fil
       -  slicers for flexible time-range selection.  
 - **Step 7:**  Designed visualizations:  
   Used the dashboard to capture trends in leaves, remote work, and attendance, generating actionable insights to support HR planning and management.
+
+
+
+  ## 📉 Dashboards  
+
+### 🔝🔻 Top and Bottom 5 Analysis  
+Comparison of top and bottom 5 products by sales, quantity, and profit to identify best and worst performers.
+
+![Sales Dashboard]([https://github.com/user-attachments/assets/681cb6d5-0d8c-4f20-94e0-074436de0917](https://github.com/user-attachments/assets/e2e1416d-8465-49e0-bc25-16b5a35aae5b" ))  
+
+  
+
+---
