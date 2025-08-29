@@ -1,10 +1,11 @@
 # ⚡ Energy Consumption Dashboard  
 
 ### Project Link:  
-[Access Dashboard (Tableau Cloud)](https://public.tableau.com/) <!-- replace with actual Tableau Cloud link -->  
+[View Dashboard (Tableau Cloud)](https://listwr.com/o7dQjj)  
+[Download Dashboard (twbx)](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project3_Energy_Consumption_Analysis/Energy_Consumption.twbx)
 
 ### Project Presentation (PPT) Link:  
-[Download Presentation (PPT)](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project3_Energy_Consumption_Analysis/Energy-Consumption-Dashboarding-using-Snowflake-and-Tableau.pdf) 
+[Download Presentation (PPT)](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project3_Energy_Consumption_Analysis/Energy-Consumption-Dashboarding-using-Snowflake_Tableau%20.pptx)
 
 ### Dataset:  
 [Download Dataset](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project3_Energy_Consumption_Analysis/Renewable_Energy_Usage_Sampled.csv)  
@@ -38,31 +39,36 @@ The main objectives were to:
     - -20% for Middle income  
     - -30% for High income  
 - **Step 6:** Connected Snowflake with **Tableau Desktop**
-- **Step 7:** Designed dashboards including the following visuals :
-              -   
-- **Step 7:** Published dashboards to **Tableau Cloud** for wider accessibility.  
+- **Step 7:** Designed dashboards including the following visuals :  
+  - **Monthly Usage (KWH) by Country** – Compares electricity consumption levels across different countries to identify high and low usage patterns.  
+  - **Cost Saving (USD) by Country** – Displays cost savings achieved per country, highlighting differences in energy efficiency.  
+  - **Monthly Usage (KWH) by Region** – Aggregates and compares energy consumption across global regions.  
+  - **Monthly Usage (KWH) by Energy Source** – Shows consumption distribution across renewable energy sources such as Biomass, Hydro, Solar, Wind, and Geothermal.  
+  - **Cost Saving (USD) by Region** – Highlights regional variations in monetary savings due to energy consumption efficiency.  
+  - **Cost Savings (USD) by Energy Source** – Demonstrates how different renewable sources contribute to overall cost savings, emphasizing economic impact.  
+
+- **Step 8:** Published dashboards to **Tableau Cloud** for wider accessibility.  
+
+---
+## 🚀 Tech Stack  
+- **Cloud Storage:** Amazon S3  
+- **Data Warehouse:** Snowflake  
+- **Data Transformation:** SQL (Snowflake Worksheets)  
+- **Visualization:** Tableau Desktop + Tableau Cloud  
+- **Access Management:** AWS IAM  
 
 ---
 
 ## Architectural Diagram
 
+![Architectural Diagram](https://github.com/user-attachments/assets/ca8a180a-d75e-4ffa-9404-00182094b206)
 
-## 📉 Dashboards  
+## 📉 Dashboard
 
-### 🌍 Energy Usage by Region & Country  
-Visualizes monthly consumption trends segmented by region, country, and energy source to identify high-usage areas and compare renewable adoption.  
+This Energy Consumption Dashboard provides a comprehensive view of electricity usage and cost savings across countries, regions, and energy sources. It highlights consumption patterns, efficiency trends, and the economic impact of renewable adoption, enabling data-driven insights for sustainable energy planning.
 
-![Energy Dashboard1](https://github.com/user-attachments/assets/placeholder1)  
 
-### 📊 Income Level Impact Analysis  
-Analyzes how different income levels influence energy usage growth and cost-saving potential.  
-
-![Energy Dashboard2](https://github.com/user-attachments/assets/placeholder2)  
-
-### 🔋 Energy Source Mix  
-Breakdown of renewable vs. non-renewable energy usage, highlighting sustainable adoption trends.  
-
-![Energy Dashboard3](https://github.com/user-attachments/assets/placeholder3)  
+![Dashboard](https://github.com/user-attachments/assets/cb459392-3007-41af-bcbf-ce4213978bec)
 
 ---
 
@@ -86,12 +92,4 @@ From the dashboard, the following key insights were observed:
 
 ---
 
-## 🚀 Tech Stack  
-- **Cloud Storage:** Amazon S3  
-- **Data Warehouse:** Snowflake  
-- **Data Transformation:** SQL (Snowflake Worksheets)  
-- **Visualization:** Tableau Desktop + Tableau Cloud  
-- **Access Management:** AWS IAM  
-
----
 
