@@ -24,7 +24,16 @@ To leverage data analytics and cloud technologies to help organizations make **d
 Here are some of the projects I’ve worked on:  
 
 1. **[Sales Performance Dashboard](./Project1_Sales_Analysis/)**  
-   - This project delivers an interactive Power BI dashboard for comprehensive sales performance analysis, enabling data-driven insights on products, regions, promotions, and customer behavior to optimize revenue and profitability. 
+   - This project delivers an interactive Power BI dashboard for comprehensive sales performance analysis, enabling data-driven insights on products, regions, promotions, and customer behavior to optimize revenue and profitability.
+
+2. **[HR Analytics Dashboard](./Project2_HR_Analytics/)**
+
+   - Developed an interactive HR Analytics Dashboard in Power BI to consolidate multi-sheet attendance data, standardize leave codes, and track key KPIs such as presence %, WFH vs. WFO trends, and leave distribution. The solution empowers HR managers with real-time insights for workforce planning, absenteeism control, and data-driven decision-making.
+
+3. **[Energy Consumption Dashboard](./Project3_Energy_Consumption_Analysis/)**
+
+   -This project analyzes renewable energy usage across countries, regions, and energy sources to identify patterns in electricity consumption and cost savings.The dashboard highlights energy efficiency and cost impacts of renewable adoption for smarter sustainability decisions.
+  
    
 ## 📌 How to Use This Repo 
 
@@ -33,8 +42,8 @@ Here are some of the projects I’ve worked on:
 - Each folder contains:
   - The project **dataset(s)** (CSV/Excel if available).
   - The **Power BI (.pbix)** or **Tableau (.twbx)** file.
-  - A **Documentation PDF** describing the project in detail.
-  - A `README.md` file (if provided) with a quick project overview.
+  - A **Documentation PDF** or **Presentation PPT** (if provided) describing the project in detail.
+  - A `README.md` file with a quick project overview.
 
 ### 2️⃣ Open the Dashboard
 - **For Power BI projects:**  
