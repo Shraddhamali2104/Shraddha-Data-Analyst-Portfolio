@@ -34,7 +34,7 @@ Here are some of the projects I’ve worked on:
 
    -This project analyzes renewable energy usage across countries, regions, and energy sources to identify patterns in electricity consumption and cost savings.The dashboard highlights energy efficiency and cost impacts of renewable adoption for smarter sustainability decisions.
   
-4. **[Agricultural Insights Dashboard](./Project4_AgriculturalInsightsDashboard/)**
+4. **[Agricultural Insights Dashboard](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/tree/main/Project4_Agricultural%20Insights%20Dashboard)**
 
    -Developed interactive dashboards for rainfall, temperature, humidity, and yield analysis across crops, seasons, and locations. Integrated AWS, Snowflake, and Power BI with advanced data transformations for year and rainfall categorization.
   
