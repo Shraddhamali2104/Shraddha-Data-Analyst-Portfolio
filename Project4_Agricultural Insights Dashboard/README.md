@@ -1,14 +1,13 @@
 # 🌾 Agricultural Data Analysis Dashboard  
 
 ### Project Link:  
-[View Dashboard (Power BI Service)](https://your-link-here)  
-[Download PBIX File](https://your-github-link-here)  
+[Download PBIX File](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project4_Agricultural%20Insights%20Dashboard/Agriculture%20Data%20Analysis.pbix)  
 
 ### Project Presentation (PPT) Link:  
-[Download Presentation (PPT)](https://your-github-link-here)  
+[Download Presentation (PPT)](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project4_Agricultural%20Insights%20Dashboard/Agricultural-Data-Analytics-Dashboarding-using-Snowflake-and-Power-BI.pptx) 
 
 ### Dataset:  
-[Download Dataset](https://your-github-link-here)  
+[Download Dataset](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project4_Agricultural%20Insights%20Dashboard/data_season%20(1).csv) 
 
 ---
 
