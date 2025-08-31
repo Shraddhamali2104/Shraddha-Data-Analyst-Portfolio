@@ -5,7 +5,7 @@
 [Download Dashboard (twbx)](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project3_Energy_Consumption_Analysis/Energy_Consumption.twbx)
 
 ### Project Presentation (PPT) Link:  
-[Download Presentation (PPT)](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project3_Energy_Consumption_Analysis/Energy-Consumption-Dashboarding-using-Snowflake_Tableau%20.pptx)
+[Download Presentation (PPT)](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project3_Energy_Consumption_Analysis/Energy-Consumption-Dashboarding-using-Snowflake-and-Tableau.pptx)
 
 ### Dataset:  
 [Download Dataset](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project3_Energy_Consumption_Analysis/Renewable_Energy_Usage_Sampled.csv)  
