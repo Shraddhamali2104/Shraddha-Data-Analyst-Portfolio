@@ -34,7 +34,10 @@ Here are some of the projects I’ve worked on:
 
    -This project analyzes renewable energy usage across countries, regions, and energy sources to identify patterns in electricity consumption and cost savings.The dashboard highlights energy efficiency and cost impacts of renewable adoption for smarter sustainability decisions.
   
-   
+4. **[Agricultural Insights Dashboard](./Project4_AgriculturalInsightsDashboard/)**
+
+   -Developed interactive dashboards for rainfall, temperature, humidity, and yield analysis across crops, seasons, and locations. Integrated AWS, Snowflake, and Power BI with advanced data transformations for year and rainfall categorization.
+  
 ## 📌 How to Use This Repo 
 
 ### 1️⃣ Navigate to a Project
