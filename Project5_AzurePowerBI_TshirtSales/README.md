@@ -1,11 +1,12 @@
 # 👕 Men’s T-Shirt Sales Insights Dashboard  
 
 ### 📌 Project Link  
-[Download PBIX File](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/TshirtSales_AzurePowerBI/Tshirts%20Brands.pbix)  
+[Download PBIX File](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project5_AzurePowerBI_TshirtSales/Tshirts%20Brands.pbix) 
+
 
 
 ### 📂 Dataset  
-[View or Download Dataset](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/TshirtSales_AzurePowerBI/Men%2BTshirt.csv)  
+[View or Download Dataset](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project5_AzurePowerBI_TshirtSales/Men%2BTshirt.csv)  
 
 This dataset contains **Men’s T-Shirt sales data** including:  
 - **Brand Name** – The brand of the t-shirt.  
