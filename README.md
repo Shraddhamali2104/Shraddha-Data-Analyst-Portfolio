@@ -37,6 +37,16 @@ Here are some of the projects I’ve worked on:
 4. **[Agricultural Insights Dashboard](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/tree/main/Project4_Agricultural%20Insights%20Dashboard)**
 
    -Developed interactive dashboards for rainfall, temperature, humidity, and yield analysis across crops, seasons, and locations. Integrated AWS, Snowflake, and Power BI with advanced data transformations for year and rainfall categorization.
+
+5. **[TshirtSales_Dashboard(AzurePowerBI)](./Project6_Excel_ProductionDashboard/)**
+
+   -Built an end-to-end Men’s T-Shirt Sales Dashboard using Azure SQL & Power BI, performing data cleaning, transformation, and DAX calculations.
+Delivered insights on top/bottom brands, discounts, profit %, and pricing trends to support business decisions.
+
+6. **[Production Dashboard(Excel)](./Project6_Excel_ProductionDashboard/)**
+
+   -Built an interactive Excel dashboard to analyze production cost, manager workload, and monthly trends. Automated data cleaning using VLOOKUP & formulas, created derived metrics, and enabled filter-driven insights with slicers for faster decision-making.
+   
   
 ## 📌 How to Use This Repo 
 
