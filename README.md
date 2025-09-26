@@ -46,6 +46,11 @@ Delivered insights on top/bottom brands, discounts, profit %, and pricing trends
 6. **[Production Dashboard(Excel)](./Project6_Excel_ProductionDashboard/)**
 
    -Built an interactive Excel dashboard to analyze production cost, manager workload, and monthly trends. Automated data cleaning using VLOOKUP & formulas, created derived metrics, and enabled filter-driven insights with slicers for faster decision-making.
+
+7. **[Housing Market Analysis(BigQuery+PowerBI)](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/tree/main/Project7_Housing%20Market%20Analysis(BigQuery%20%2B%20Power%20BI))**
+
+   -An interactive Power BI dashboard built on Google BigQuery housing data, enabling deep analysis of sales, pricing trends, and regional housing performance.The project delivers actionable insights on market growth, pricing strategies, and buyer behavior through advanced DAX measures and dynamic filters.  
+   
    
   
 ## 📌 How to Use This Repo 
@@ -72,7 +77,11 @@ Delivered insights on top/bottom brands, discounts, profit %, and pricing trends
 
 ## 🤝 Connect With Me
 
-📧 Email: shraddhamalipeth789@gmail.com
+📧 [Email](shraddhamalipeth789@gmail.com)
+🔗 [LinkedIn](www.linkedin.com/in/shraddhamali21) 
+🐙 [GitHub](https://github.com/Shraddhamali2104))  
+
+
 
 <br>
 
