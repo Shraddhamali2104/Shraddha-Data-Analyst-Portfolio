@@ -1,7 +1,7 @@
 # 🏡 Housing Market Analysis Dashboard (BigQuery + Power BI)
 
 ### 🔗 Project Link:
-[Access Dashboard (.pbix)](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project7_Housing%20Market%20Analysis(BigQuery%20%2B%20Power%20BI)/Housing_Sales_Analysis.pbix)
+[Access & Download Dashboard (.pbix)](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project7_Housing%20Market%20Analysis(BigQuery%20%2B%20Power%20BI)/Housing_Sales_Analysis.pbix)
 
 
 ### 📂 Dataset:
