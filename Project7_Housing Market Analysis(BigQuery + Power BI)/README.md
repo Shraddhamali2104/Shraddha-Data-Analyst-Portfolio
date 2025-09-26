@@ -1,12 +1,12 @@
 # 🏡 Housing Market Analysis Dashboard (BigQuery + Power BI)
 
 ### 🔗 Project Link:
-[Access Dashboard (.pbix)](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project2_Housing_Analysis/Housing_Market_Analysis.pbix)
+[Access Dashboard (.pbix)](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project7_Housing%20Market%20Analysis(BigQuery%20%2B%20Power%20BI)/Housing_Sales_Analysis.pbix)
 
 
 ### 📂 Dataset:
-- [Housing Data (CSV)](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project2_Housing_Analysis/Housing%20Data.csv)  
-- [Column Definitions (Excel)](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project2_Housing_Analysis/Housing+Data+Column+Definitions.xlsx)
+- [Housing Data (CSV)](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project7_Housing%20Market%20Analysis(BigQuery%20%2B%20Power%20BI)/Housing%20Data.csv)  
+- [Column Definitions (Excel)](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project7_Housing%20Market%20Analysis(BigQuery%20%2B%20Power%20BI)/Housing%2BData%2BColumn%2BDefinitions.xlsx)
 
 The dataset contains **housing market transaction records** along with economic indicators (inflation, yield, interest rates).  
 It provides information at the **transaction, regional, and property level** to analyze housing trends.  
