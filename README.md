@@ -32,25 +32,29 @@ Here are some of the projects I’ve worked on:
 
 3. **[Energy Consumption Dashboard](./Project3_Energy_Consumption_Analysis/)**
 
-   -This project analyzes renewable energy usage across countries, regions, and energy sources to identify patterns in electricity consumption and cost savings.The dashboard highlights energy efficiency and cost impacts of renewable adoption for smarter sustainability decisions.
+   - This project analyzes renewable energy usage across countries, regions, and energy sources to identify patterns in electricity consumption and cost savings.The dashboard highlights energy efficiency and cost impacts of renewable adoption for smarter sustainability decisions.
   
 4. **[Agricultural Insights Dashboard](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/tree/main/Project4_Agricultural%20Insights%20Dashboard)**
 
-   -Developed interactive dashboards for rainfall, temperature, humidity, and yield analysis across crops, seasons, and locations. Integrated AWS, Snowflake, and Power BI with advanced data transformations for year and rainfall categorization.
+   - Developed interactive dashboards for rainfall, temperature, humidity, and yield analysis across crops, seasons, and locations. Integrated AWS, Snowflake, and Power BI with advanced data transformations for year and rainfall categorization.
 
 5. **[TshirtSales_Dashboard(AzurePowerBI)](./Project6_Excel_ProductionDashboard/)**
 
-   -Built an end-to-end Men’s T-Shirt Sales Dashboard using Azure SQL & Power BI, performing data cleaning, transformation, and DAX calculations.
+   - Built an end-to-end Men’s T-Shirt Sales Dashboard using Azure SQL & Power BI, performing data cleaning, transformation, and DAX calculations.
 Delivered insights on top/bottom brands, discounts, profit %, and pricing trends to support business decisions.
 
 6. **[Production Dashboard(Excel)](./Project6_Excel_ProductionDashboard/)**
 
-   -Built an interactive Excel dashboard to analyze production cost, manager workload, and monthly trends. Automated data cleaning using VLOOKUP & formulas, created derived metrics, and enabled filter-driven insights with slicers for faster decision-making.
+   - Built an interactive Excel dashboard to analyze production cost, manager workload, and monthly trends. Automated data cleaning using VLOOKUP & formulas, created derived metrics, and enabled filter-driven insights with slicers for faster decision-making.
 
 7. **[Housing Market Analysis(BigQuery+PowerBI)](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/tree/main/Project7_Housing%20Market%20Analysis(BigQuery%20%2B%20Power%20BI))**
 
-   -An interactive Power BI dashboard built on Google BigQuery housing data, enabling deep analysis of sales, pricing trends, and regional housing performance.The project delivers actionable insights on market growth, pricing strategies, and buyer behavior through advanced DAX measures and dynamic filters.  
-   
+   - An interactive Power BI dashboard built on Google BigQuery housing data, enabling deep analysis of sales, pricing trends, and regional housing performance.The project delivers actionable insights on market growth, pricing strategies, and buyer behavior through advanced DAX measures and dynamic filters.
+
+8. **[Inventory Supply & Demand Analysis(PowerBI+MySQL)](./Project8_Inventory_Supply_Demand_Analysis)**
+
+    - This project focuses on analyzing demand, availability, and profitability data to identify supply shortages and their financial impact.It demonstrates end-to-end learning: data cleaning, SQL joins, Power BI KPI creation, and transitioning reports from test to production environments (SQL Server to MySQL).  
+
    
   
 ## 📌 How to Use This Repo 
