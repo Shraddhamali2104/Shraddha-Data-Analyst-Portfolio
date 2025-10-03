@@ -1,16 +1,26 @@
 # 💳 Loan Default & Financial Risk Analysis Dashboard (SQL + Power BI)
 
 ### 🔗 Project Link
-[Access Dashboard (.pbix)](YOUR_LINK_TO_PBIX_FILE)  
-[Dataset (Excel/CSV)](YOUR_LINK_TO_DATASET)  
+[Access & Download Dashboard (.pbix)](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project9_Loan_Financial_Analysis_Dashboard/Loan_Default_analysis.pbix)  
+
+---
+
+## 📝 Problem Statement  
+
+Banks and financial institutions face increasing **risk of loan defaults**, which impacts profitability and credit management strategies.  
+The objective of this project was to build an **interactive Power BI dashboard powered by SQL & DAX** that analyzes:  
+
+- Loan distribution by purpose, age, employment, and income.  
+- Trends in loan defaults over time.  
+- Financial risk segmentation by credit score, marital status, and income bracket.  
+- Applicant demographics & financial profiles influencing defaults.
 
 ---
 
 ## 📂 Dataset
 
-- **Source**: [Loan Data File](YOUR_EXCEL_LINK)  
-- **Size**: ~100k+ records  
-- **Columns**: Borrower demographics, employment type, loan purpose, income, credit score, loan status (default/non-default), etc.  
+- **Source**: [Loan Data File](https://github.com/Shraddhamali2104/Shraddha-Data-Analyst-Portfolio/blob/main/Project9_Loan_Financial_Analysis_Dashboard/Loan%2BDataset%2BLink.xlsx)  
+- **Size**: ~2,55,347 records  
 
 #### Key Columns:  
 - `LoanID` → Unique identifier of each loan  
@@ -25,19 +35,8 @@
 - `LoanStatus` → Defaulted or Non-defaulted loan  
 - `LoanDate` → Issue date (used for year-based analysis)  
 
-📸 *Refer to screenshots below for dashboard previews.*  
+![Dataset](https://github.com/user-attachments/assets/0275e41c-5117-4e3f-942f-88f062f4d83c)
 
----
-
-## 📝 Problem Statement  
-
-Banks and financial institutions face increasing **risk of loan defaults**, which impacts profitability and credit management strategies.  
-The objective of this project was to build an **interactive Power BI dashboard powered by SQL & DAX** that analyzes:  
-
-- Loan distribution by purpose, age, employment, and income.  
-- Trends in loan defaults over time.  
-- Financial risk segmentation by credit score, marital status, and income bracket.  
-- Applicant demographics & financial profiles influencing defaults.  
 
 ---
 
@@ -54,25 +53,48 @@ The objective of this project was to build an **interactive Power BI dashboard p
   - Handled null values and verified with Excel source pivots.  
 
 - **Step 4: Feature Engineering**  
-  - Created **derived columns**: `Year`, `AgeGroup`, `Credit Score Bins`, `Income Bracket`.  
+  - Created **derived columns**: `Year`, `AgeGroup`, `Credit Score Bins`, `Income Bracket`.
+  
+  ![Derived column and dax measures](https://github.com/user-attachments/assets/eb515d1f-8919-46d9-8e82-99b721cabaea)
+  
+  
+## 📌 Step 5: DAX Measures & KPIs  
 
-- **Step 5: DAX Measures & KPIs**  
-  - **Loan Amount by Purpose** → SUM of loan amount grouped by purpose.  
-  - **Average Income by Employment Type** → AVG income per category.  
-  - **Default Rate by Employment Type** → % default per employment type.  
-  - **Average Loan by Age Group** → AVG loan by derived age groups.  
-  - **Default Rate by Year** → Loan defaults ratio by year.  
-  - **YOY Loan Amount Change** → % change vs previous year.  
-  - **YOY Default Loan Change** → % change in defaulted loans vs previous year.  
-  - **YTD Loan Amount** → Ribbon chart by credit bins & marital status.  
-  - **Median Loan by Credit Score** → Median loan per credit category.  
-  - **Decomposition Tree** → Loan amount split by income bracket & employment type.  
+### 📊 Page 1 – Loan Default Overview  
+- **Average Income by Employment Type** → AVG borrower income segmented by employment categories (Full-time, Self-employed, etc.).  
+- **Average Loan by Age Group** → AVG loan amount segmented by borrower age groups (Teens, Adults, Middle Age, Seniors).  
+- **Default Rate by Employment Type** → % of defaults segmented by employment categories.  
+- **Default Rate by Year** → Annual ratio of defaults to total loans (yearly portfolio risk trend).  
+- **Loan Amount by Purpose** → SUM of loan amounts grouped by loan purpose (Home, Business, Auto, Education, etc.).  
 
-- **Step 6: Data Validation**  
-  - Cross-checked results with:  
+---
+
+### 📊 Page 2 – Applicant Demographics & Financial Profile  
+- **Average Loan Amount (High Credit)** → AVG loan size only for *High Credit Score* borrowers (financial strength indicator).  
+- **Median Loan by Credit Score Bins** → Median loan amount grouped by credit score bins (High, Medium, Low, Very Low).  
+- **Total Loan (Adults) by Credit Bins** → SUM of loans taken by adult borrowers segmented into credit bins.  
+- **Total Loan (Middle Age Adults)** → SUM of loan amounts for middle-aged borrowers (loan exposure concentration).  
+- **Total No. of Loans by Education Type** → COUNT of loans segmented by borrower education levels (School, Graduate, Postgraduate, etc.).  
+
+---
+
+### 📊 Page 3 – Financial Risk & Time Analysis  
+- **YOY Default Loan Change** → Year-over-year % change in loan defaults (default trend tracker).  
+- **YOY Loan Amount Change** → Year-over-year % change in total loan disbursements (growth/decline tracker).  
+- **YTD Loan Amount** → Year-to-date loan disbursement (running total of loans issued in the current year).
+ 
+
+- **Data Validation**  
+  - Cross-checked each visual's results with:  
     1. **Table visuals** in Power BI.  
-    2. **Excel pivot tables** from source dataset.  
+     The image indicates that the result in the actual visual and the table visual used for data validation are same.
+    
+    ![Validation](https://github.com/user-attachments/assets/7f97e786-7daa-4deb-9077-294a136bf87a)
+  
 
+    2. **Excel pivot tables** from main dataset Source.  
+   
+    
 ---
 
 ## 📊 Dashboards & Visuals  
