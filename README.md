@@ -53,9 +53,12 @@ Delivered insights on top/bottom brands, discounts, profit %, and pricing trends
 
 8. **[Inventory Supply & Demand Analysis(PowerBI+MySQL)](./Project8_Inventory_Supply_Demand_Analysis)**
 
-    - This project focuses on analyzing demand, availability, and profitability data to identify supply shortages and their financial impact.It demonstrates end-to-end learning: data cleaning, SQL joins, Power BI KPI creation, and transitioning reports from test to production environments (SQL Server to MySQL).  
+    - This project focuses on analyzing demand, availability, and profitability data to identify supply shortages and their financial impact.It demonstrates end-to-end learning: data cleaning, SQL joins, Power BI KPI creation, and transitioning reports from test to production environments (SQL Server to MySQL). 
 
-   
+
+9. **[Loan Default & Financial Risk Analysis Dashboard(SQL + Power BI)](./Project9_Loan_Financial_Analysis_Dashboard)**
+
+    - This project delivers an interactive Loan Financial Analysis Dashboard built with SQL, Power BI, and advanced DAX measures to analyze loan defaults, borrower demographics, and financial risk patterns. It provides actionable insights on lending trends, credit risk, and borrower profiles, helping banks strengthen credit strategies and reduce default rates.
   
 ## 📌 How to Use This Repo 
 
